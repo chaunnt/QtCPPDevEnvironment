@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorToolChains>
+<!-- Written by QtCreator 4.9.0, 2019-07-29T10:17:20. -->
+<qtcreator>
+ <data>
+  <variable>ToolChain.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">i686-pc-windows-msvc</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/Qt/Tools/QtCreator/bin/clang/bin/clang.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags"/>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags"/>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-windows-msvc2017-pe-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Clang (C++, x86 32bit in C:\Qt\Tools\QtCreator\bin\clang\bin)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Clang:{32df34b0-6eee-470e-aebc-08130cdf4cbe}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">i686-pc-windows-msvc</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/Qt/Tools/QtCreator/bin/clang/bin/clang.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags"/>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags"/>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-windows-msvc2017-pe-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Clang (C, x86 32bit in C:\Qt\Tools\QtCreator\bin\clang\bin)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Clang:{34bab2da-2c14-49e4-be80-0643cbdcfcde}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.10</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">x86</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Native</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">32</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (x86)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{adda10b2-4ae6-4e8e-8776-1e16974d5c23}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.11</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">x86</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Native</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">32</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (x86)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{5a29b957-afb9-489c-a2e6-5e1a91a357b4}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.12</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">amd64_x86</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Cross</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir64</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion64</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PreferredToolArchitecture</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_64BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (amd64_x86)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{315a18e4-688a-40e9-b303-b870be052dc0}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.13</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">amd64_x86</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Cross</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir64</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion64</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PreferredToolArchitecture</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_64BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (amd64_x86)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{9e6ee376-d3d1-4b99-b3fb-48d092703c49}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.14</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-64bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">amd64</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Native</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir64</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion64</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\\x64;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_64BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (amd64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{1cb65490-6963-4cc5-9497-d6a7da01c37f}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.15</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-64bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">amd64</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Native</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir64</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion64</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\\x64;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_64BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (amd64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{009e9473-662d-4bfb-aaf6-e06dc2da9b55}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.16</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-64bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">x86_amd64</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Cross</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir64</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion64</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\\x64;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_64BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">32</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (x86_amd64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{c4ce6430-f31d-4f48-9872-9d65e3644d4a}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.17</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-64bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">x86_amd64</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Cross</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir64</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework64\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion64</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\\x64;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x64</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_64BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">32</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Microsoft Visual C++ Compiler 15.9.28307.665 (x86_amd64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Msvc:{bbcdb28c-c46a-4f34-b4f2-effe6e4d6b05}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.18</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.ClangClToolChain.LlvmDir">C:/Qt/Tools/QtCreator/bin/clang/bin/clang-cl.exe</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">x86</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Native</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">32</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Default LLVM 32 bit based on MSVC2017</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.ClangCl:{bd155568-0c6d-45c7-8156-b35e6de5d756}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.19</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.ClangClToolChain.LlvmDir">C:/Qt/Tools/QtCreator/bin/clang/bin/clang-cl.exe</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.SupportedAbi">x86-windows-msvc2017-pe-32bit</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBat">C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build/vcvarsall.bat</value>
+   <value type="QString" key="ProjectExplorer.MsvcToolChain.VarsBatArg">x86</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.MsvcToolChain.environmentModifications">
+    <valuelist type="QVariantList">
+     <value type="QString">CommandPromptType</value>
+     <value type="int">0</value>
+     <value type="QString">Native</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">DevEnvDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">ExtensionSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Framework40Version</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkDir32</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Windows\Microsoft.NET\Framework\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">FrameworkVersion32</value>
+     <value type="int">0</value>
+     <value type="QString">v4.0.30319</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">INCLUDE</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIB</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">LIBPATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">PROMPT</value>
+     <value type="int">0</value>
+     <value type="QString">$P$G</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Path</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">Platform</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UCRTVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">UniversalCRTSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCIDEInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsInstallDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsRedistDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VCToolsVersion</value>
+     <value type="int">0</value>
+     <value type="QString">14.16.27023</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VS150COMNTOOLS</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_HOST_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_TGT_ARCH</value>
+     <value type="int">0</value>
+     <value type="QString">x86</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_ARG_app_plat</value>
+     <value type="int">0</value>
+     <value type="QString">Desktop</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSCMD_VER</value>
+     <value type="int">0</value>
+     <value type="QString">15.9.12</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VSINSTALLDIR</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">VisualStudioVersion</value>
+     <value type="int">0</value>
+     <value type="QString">15.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsLibPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKLibVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSDKVersion</value>
+     <value type="int">0</value>
+     <value type="QString">10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkDir</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">WindowsSdkVerBinPath</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_ADD_32BIT</value>
+     <value type="int">0</value>
+     <value type="QString">1</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__DOTNET_PREFERRED_BITNESS</value>
+     <value type="int">0</value>
+     <value type="QString">32</value>
+    </valuelist>
+    <valuelist type="QVariantList">
+     <value type="QString">__VSCMD_PREINIT_PATH</value>
+     <value type="int">0</value>
+     <value type="QString">C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Nexle-User\AppData\Local\Microsoft\WindowsApps;C:\Users\Nexle-User\AppData\Roaming\npm</value>
+    </valuelist>
+   </valuelist>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Default LLVM 32 bit based on MSVC2017</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.ClangCl:{106d4546-a295-4d19-bff7-abf7861ee5d5}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.2</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">aarch64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, aarch64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{d1194ae3-937c-4246-bc47-73d386af7f22}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.3</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">arm-linux-androideabi</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, arm)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{f987e018-7c9d-444a-bb11-f7a69783975e}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.4</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">i686-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, i686)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{06c22aad-4f96-4973-8e38-daed4f640ab2}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.5</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">x86_64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, x86_64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{f9376958-73f8-4f17-acba-11a44e4a7b0b}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.6</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">aarch64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, aarch64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{bb44dbd8-2fd2-4ff9-824e-89ad06996d63}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.7</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">arm-linux-androideabi</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, arm)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{77bc691f-8878-47ec-b7a4-6db1d017bddf}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.8</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">i686-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, i686)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{3f72c371-49e4-45f3-b470-e15e6c68312a}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.9</variable>
+  <valuemap type="QVariantMap">
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">x86_64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">C:/android-ndk-17c/android-ndk-r17c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, x86_64)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{40232966-98fd-41d7-80c9-d5507f77f163}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.Count</variable>
+  <value type="int">20</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

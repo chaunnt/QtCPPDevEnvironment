@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.9.0, 2019-08-07T11:27:09. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">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</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">C:/src/BDS_BackEnd_Collector/BDS_BackEnd_Collector.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">C:/src/BDS_BackEnd_Collector/BDS_BackEnd_Collector.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector</value>
+    <value type="QString">BDS_BackEnd_Collector [master]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/DataCollector</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/NhaDatVN/NhaDatVN.pri</value>
+    <value type="QString">NhaDatVN</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/NhaDatVN</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/DataAnalyzers</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/DataCollector/DataCollector.pri</value>
+    <value type="QString">DataCollector</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/DataAnalyzers/DataAnalyzers.pri</value>
+    <value type="QString">DataAnalyzers</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector/DataAnalyzers</value>
+    <value type="QString">Headers</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">C:/src/BDS_BackEnd_Collector</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+  </valuelist>
+ </data>
+</qtcreator>
