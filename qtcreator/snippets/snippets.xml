@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snippets>
+    <snippet group="QML" trigger="BorderImage" id="qml_borderimage" complement="" removed="false" modified="true">BorderImage {
+    id: $name$
+    source: &quot;$file$&quot;
+    width: $100$; height: $100$
+    border.left: $5$; border.top: $5$
+    border.right: $5$; border.bottom: $5$
+}</snippet>
+    <snippet group="QML" trigger="Image" id="qml_image" complement="" removed="false" modified="true">Image {
+    id: $name$
+    source: &quot;$file$&quot;
+    fillMode: $fillmode$
+}</snippet>
+    <snippet group="QML" trigger="Rectangle" id="" complement="" removed="false" modified="false">Rectangle {
+    width: $width$
+    height: $height$
+    color: $color$
+}</snippet>
+    <snippet group="C++" trigger="class" id="cpp_genericclass" complement="" removed="false" modified="true">class $name$
+{
+public:
+    $name$();
+};</snippet>
+    <snippet group="C++" trigger="class" id="cpp_qobjectclass" complement="derived from QObject" removed="false" modified="true">class $name$ : public QObject
+{
+    Q_OBJECT
+public:
+    $name$();
+    virtual ~$name$() override;
+};</snippet>
+    <snippet group="C++" trigger="do" id="cpp_do" complement="" removed="false" modified="true">do 
+{
+    $$
+} while ($condition$);</snippet>
     <snippet group="C++" trigger="else" id="cpp_else" complement="" removed="false" modified="true">else 
 {
     $$
 }</snippet>
+    <snippet group="C++" trigger="else" id="cpp_elsewithif" complement="with if" removed="false" modified="true">else if ($condition$) 
+{
+    $$
+}</snippet>
+    <snippet group="C++" trigger="for" id="cpp_for" complement="" removed="false" modified="true">for (int $var$ = 0; $var$ &lt; $total$; ++$var$) 
+{
+    $$
+}</snippet>
+    <snippet group="C++" trigger="for" id="cpp_for_rangebased" complement="range-based" removed="false" modified="true">for ($var$ : $container$) 
+{
+    $$
+}</snippet>
+    <snippet group="C++" trigger="foreach" id="cpp_foreach" complement="" removed="false" modified="true">foreach ($var$, $container$) 
+{
+    $$
+}</snippet>
+    <snippet group="C++" trigger="if" id="cpp_if" complement="" removed="false" modified="true">if ($condition$) 
+{
+    $$
+}</snippet>
+    <snippet group="C++" trigger="if" id="cpp_ifandelse" complement="and else" removed="false" modified="true">if ($condition$) 
+{
+    $$
+} 
+else 
+{
+
+}</snippet>
+    <snippet group="C++" trigger="Q_PROPERTY" id="cpp_q_property" complement="" removed="false" modified="true">Q_PROPERTY($type$ $name$ READ get$name:c$ WRITE set$name:c$ NOTIFY $name$Changed)
+$type$ m_$name:c$;
+$type$ get$name:c$();
+void set$name:c$($type$ newValue);
+Q_SIGNAL void $name$Changed();</snippet>
+    <snippet group="C++" trigger="Q_PROPERTY_MEMBER" id="" complement="" removed="false" modified="false">Q_PROPERTY($type$ $name$ MEMBER m_$name:c$ NOTIFY $name$Changed)
+Q_SIGNAL void $name$Changed();</snippet>
+    <snippet group="C++" trigger="Q_PROPERTY_READONLY" id="" complement="" removed="false" modified="false">Q_PROPERTY($type$ $name$ READ get$name:c$ NOTIFY $name$Changed)
+$type$ m_$name:c$;
+$type$ get$name:c$();
+Q_SIGNAL void $name$Changed();</snippet>
+    <snippet group="C++" trigger="switch" id="cpp_switch" complement="" removed="false" modified="true">switch ($control$) 
+{
+    case $value$:
+        $$
+        break;
+    default:
+        break;
+}</snippet>
+    <snippet group="C++" trigger="try" id="cpp_trycatch" complement="and catch" removed="false" modified="true">try 
+{
+    $$
+} 
+catch (...) 
+{
+    
+}</snippet>
+    <snippet group="C++" trigger="while" id="cpp_while" complement="" removed="false" modified="true">while ($condition$) 
+{
+    $$
+}</snippet>
+    <snippet group="C++" trigger="class" id="cpp_qwidgetclass" complement="derived from QWidget" removed="true" modified="false">class $name$ : public QWidget
+{
+    Q_OBJECT
+public:
+    $name$() {}
+    virtual ~$name$() {}
+};</snippet>
 </snippets>
